@@ -4,9 +4,13 @@ You are asked to write a simple program that, as you will see, may not be as sim
 This program must prompt the user for the name of a first city, then its latitude and longitude, then for the name of a second city with its latitude and longitude, then compute the flying distance between the two and display. For example,
 
 > The first city: Shenzhen
+
 > The latitude and longitude of first city: 22.55 114.1
+ 
 > The second city: Beijing
+ 
 > The latitude and longitude of second city: 39.9139 116.3917
+ 
 > The distance between Shenzhen and Beijing is <result> km
 
 "The first city:" , "The latitude and longitude of second city",The second city:" and "The latitude and longitude of second city:" are prompt information.
